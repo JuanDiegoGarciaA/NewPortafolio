@@ -9,11 +9,11 @@ function App() {
         <h1>Portafolio - Juan Diego Garcia React</h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://juandiegogarciaa.github.io/PortFolio/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Antiguo Portafolio
         </a>
       </header>
     </div>
