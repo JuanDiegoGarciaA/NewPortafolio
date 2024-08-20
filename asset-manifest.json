@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/NewPortafolio/static/css/main.0fcebc17.css",
-    "main.js": "/NewPortafolio/static/js/main.4ac77660.js",
+    "main.css": "/NewPortafolio/static/css/main.449a0480.css",
+    "main.js": "/NewPortafolio/static/js/main.73c9258b.js",
     "static/js/453.7d1ffe6d.chunk.js": "/NewPortafolio/static/js/453.7d1ffe6d.chunk.js",
     "static/media/background.jpg": "/NewPortafolio/static/media/background.00db8c4880cc67909649.jpg",
-    "static/media/logo.svg": "/NewPortafolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fa-solid-900.ttf": "/NewPortafolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/mee.png": "/NewPortafolio/static/media/mee.051cc85fd936ddeebf0e.png",
+    "static/media/HV_JuanDiegoG_2024.pdf": "/NewPortafolio/static/media/HV_JuanDiegoG_2024.621603467dd6560aeb68.pdf",
+    "static/media/fa-brands-400.ttf": "/NewPortafolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/NewPortafolio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/NewPortafolio/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/NewPortafolio/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/NewPortafolio/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/NewPortafolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/NewPortafolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/NewPortafolio/index.html",
-    "main.0fcebc17.css.map": "/NewPortafolio/static/css/main.0fcebc17.css.map",
-    "main.4ac77660.js.map": "/NewPortafolio/static/js/main.4ac77660.js.map",
+    "main.449a0480.css.map": "/NewPortafolio/static/css/main.449a0480.css.map",
+    "main.73c9258b.js.map": "/NewPortafolio/static/js/main.73c9258b.js.map",
     "453.7d1ffe6d.chunk.js.map": "/NewPortafolio/static/js/453.7d1ffe6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fcebc17.css",
-    "static/js/main.4ac77660.js"
+    "static/css/main.449a0480.css",
+    "static/js/main.73c9258b.js"
   ]
 }
