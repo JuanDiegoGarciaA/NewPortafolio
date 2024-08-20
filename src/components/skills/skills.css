@@ -1,0 +1,25 @@
+.skills-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 300px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .skills-card__image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .skills-card__title {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+  }
+  
+  .skills-card__description {
+    font-size: 1em;
+    color: #666;
+    margin: 0 1em 1em;
+  }

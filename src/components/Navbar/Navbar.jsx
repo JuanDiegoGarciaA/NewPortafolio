@@ -13,11 +13,12 @@ const Navbar = () => {
             <a href="/" className="logo">Juan</a>
 
             <nav className={`navbar ${isOpen ? "open" : ""}`}>
-                <a href="/">Home</a>
-                <a href="/">About</a>
-                <a href="/">Portfolio</a>
-                <a href="/">Services</a>
-                <a href="/">Contact</a>
+                <a href="/">INICIO</a>
+                <a href="/">SOBRE MI</a>
+                <a href="/">SKILLS</a>
+                <a href="/">CURRICULUM</a>
+                <a href="/">PORTAFOLIO</a>
+                <a href="/">CONTACTO</a>
             </nav>
 
             <div className="menu-icon" onClick={toggleMenu}>
