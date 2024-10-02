@@ -1,26 +1,38 @@
 {
   "files": {
-    "main.css": "/NewPortafolio/static/css/main.449a0480.css",
-    "main.js": "/NewPortafolio/static/js/main.73c9258b.js",
-    "static/js/453.7d1ffe6d.chunk.js": "/NewPortafolio/static/js/453.7d1ffe6d.chunk.js",
+    "main.css": "/NewPortafolio/static/css/main.a75e31d3.css",
+    "main.js": "/NewPortafolio/static/js/main.696fae55.js",
+    "static/js/453.f9cf540b.chunk.js": "/NewPortafolio/static/js/453.f9cf540b.chunk.js",
     "static/media/background.jpg": "/NewPortafolio/static/media/background.00db8c4880cc67909649.jpg",
     "static/media/fa-solid-900.ttf": "/NewPortafolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/mee.png": "/NewPortafolio/static/media/mee.051cc85fd936ddeebf0e.png",
     "static/media/HV_JuanDiegoG_2024.pdf": "/NewPortafolio/static/media/HV_JuanDiegoG_2024.621603467dd6560aeb68.pdf",
+    "static/media/jenkins.png": "/NewPortafolio/static/media/jenkins.4f82093f4d619a5d9aca.png",
     "static/media/fa-brands-400.ttf": "/NewPortafolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/NewPortafolio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/fa-brands-400.woff2": "/NewPortafolio/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/fa-regular-400.ttf": "/NewPortafolio/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/powerbi.png": "/NewPortafolio/static/media/powerbi.1934fa0d32fc7137acb4.png",
+    "static/media/javascript.png": "/NewPortafolio/static/media/javascript.83f816a137ee2ef5f733.png",
+    "static/media/sqlserver.png": "/NewPortafolio/static/media/sqlserver.f88c675b8fdacd876e88.png",
+    "static/media/ui-ux.png": "/NewPortafolio/static/media/ui-ux.a008b67ec459df5cf8dc.png",
+    "static/media/nodejs.png": "/NewPortafolio/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/fa-regular-400.woff2": "/NewPortafolio/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/angular.png": "/NewPortafolio/static/media/angular.795212e8e4e09f7a9bbb.png",
+    "static/media/scrum.png": "/NewPortafolio/static/media/scrum.5205f7d22a89d03870f6.png",
+    "static/media/mysql.png": "/NewPortafolio/static/media/mysql.7d8d571e5629923eaf74.png",
+    "static/media/adobe.png": "/NewPortafolio/static/media/adobe.903aa72bfabf227b2206.png",
+    "static/media/python.png": "/NewPortafolio/static/media/python.7a9da81b5ea6a4550127.png",
     "static/media/fa-v4compatibility.ttf": "/NewPortafolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/bootstrap.png": "/NewPortafolio/static/media/bootstrap.346f034bbf5bb72e9c35.png",
     "static/media/fa-v4compatibility.woff2": "/NewPortafolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/NewPortafolio/index.html",
-    "main.449a0480.css.map": "/NewPortafolio/static/css/main.449a0480.css.map",
-    "main.73c9258b.js.map": "/NewPortafolio/static/js/main.73c9258b.js.map",
-    "453.7d1ffe6d.chunk.js.map": "/NewPortafolio/static/js/453.7d1ffe6d.chunk.js.map"
+    "main.a75e31d3.css.map": "/NewPortafolio/static/css/main.a75e31d3.css.map",
+    "main.696fae55.js.map": "/NewPortafolio/static/js/main.696fae55.js.map",
+    "453.f9cf540b.chunk.js.map": "/NewPortafolio/static/js/453.f9cf540b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.449a0480.css",
-    "static/js/main.73c9258b.js"
+    "static/css/main.a75e31d3.css",
+    "static/js/main.696fae55.js"
   ]
 }
