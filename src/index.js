@@ -6,6 +6,8 @@ import Navbar from './components/Navbar/Navbar';
 import Home from './components/home/home';
 import About from './components/about/about';
 import Skills from './components/skills/skills';
+import Timeline from './components/curriculum/timeLine';
+import timelineData from './data'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,6 +16,7 @@ root.render(
     <Home />
     <About />
     <Skills />
+    <Timeline items={timelineData} />
   </React.StrictMode>
 );
 

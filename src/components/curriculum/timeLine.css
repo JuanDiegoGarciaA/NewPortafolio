@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+.timeline {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.timeline:before {
+    content: '';
+    position: absolute;
+    left: 50px;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #c5c5c5;
+}
+
+.timeline-title {
+    font-family: 'Righteous';
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    color: #ff6b6b;
+    text-align: center;
+}
