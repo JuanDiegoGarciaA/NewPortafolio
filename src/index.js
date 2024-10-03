@@ -10,6 +10,7 @@ import Timeline from './components/curriculum/timeLine';
 import timelineData from './data'
 import Portfolio from './components/portafolio/portafolio';
 import Contact from './components/contacto/contacto';
+import Footer from './components/footer/footer';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -22,6 +23,7 @@ root.render(
     <Timeline items={timelineData} />
     <Portfolio />
     <Contact />
+    <Footer />
   </React.StrictMode>
 );
 
