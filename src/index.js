@@ -8,6 +8,7 @@ import About from './components/about/about';
 import Skills from './components/skills/skills';
 import Timeline from './components/curriculum/timeLine';
 import timelineData from './data'
+import Portfolio from './components/portafolio/portafolio';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,6 +18,7 @@ root.render(
     <About />
     <Skills />
     <Timeline items={timelineData} />
+    <Portfolio />
   </React.StrictMode>
 );
 
