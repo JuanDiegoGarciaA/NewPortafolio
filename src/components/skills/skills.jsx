@@ -20,6 +20,7 @@ import jenkins from '../../images/jenkins.png'
 import scrum from '../../images/scrum.png'
 import sonarqube from '../../images/sonarqube.png'
 import powerbi from '../../images/powerbi.png'
+import springboot from '../../images/spring-boot.png'
 
 
 
@@ -76,6 +77,11 @@ const skillsData = [
     image: csharp_dotnet,
     name: "C# & .NET",
     description: "Desarrollo de aplicaciones robustas con C# y el framework .NET.",
+  },
+  {
+    image: springboot,
+    name: "Java & Spring Boot",
+    description: "Desarrollo de aplicaciones robustas con Java y el framework Spring Boot.",
   },
   {
     image: mysql,
