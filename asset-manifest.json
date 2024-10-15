@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NewPortafolio/static/css/main.b8897bd2.css",
-    "main.js": "/NewPortafolio/static/js/main.2f09c810.js",
+    "main.js": "/NewPortafolio/static/js/main.508256d5.js",
     "static/js/453.f9cf540b.chunk.js": "/NewPortafolio/static/js/453.f9cf540b.chunk.js",
     "static/media/Programacion3.png": "/NewPortafolio/static/media/Programacion3.4333f8ea539593c3f08d.png",
     "static/media/animacion2.png": "/NewPortafolio/static/media/animacion2.8e431b4cace25923a9d6.png",
@@ -32,15 +32,16 @@
     "static/media/adobe.png": "/NewPortafolio/static/media/adobe.903aa72bfabf227b2206.png",
     "static/media/python.png": "/NewPortafolio/static/media/python.7a9da81b5ea6a4550127.png",
     "static/media/fa-v4compatibility.ttf": "/NewPortafolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/spring-boot.png": "/NewPortafolio/static/media/spring-boot.16f7ecf5e9624d41a3ee.png",
     "static/media/bootstrap.png": "/NewPortafolio/static/media/bootstrap.346f034bbf5bb72e9c35.png",
     "static/media/fa-v4compatibility.woff2": "/NewPortafolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/NewPortafolio/index.html",
     "main.b8897bd2.css.map": "/NewPortafolio/static/css/main.b8897bd2.css.map",
-    "main.2f09c810.js.map": "/NewPortafolio/static/js/main.2f09c810.js.map",
+    "main.508256d5.js.map": "/NewPortafolio/static/js/main.508256d5.js.map",
     "453.f9cf540b.chunk.js.map": "/NewPortafolio/static/js/453.f9cf540b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8897bd2.css",
-    "static/js/main.2f09c810.js"
+    "static/js/main.508256d5.js"
   ]
 }
